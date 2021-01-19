@@ -1,5 +1,3 @@
-writeCode
-
 ### Assignment I
 
 Please read the following links:
